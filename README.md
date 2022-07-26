@@ -1,2 +1,2 @@
-# NGBA.github.io
+# assignment2.github.io
 My Portfolio
